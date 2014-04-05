@@ -3,14 +3,13 @@
 <head>
   <meta charset="utf-8">
 
-  <meta name="description" content="A layout example with a side menu that hides on mobile, just like the Pure website.">
 
-  <title>Walla Walla Acupuncture</title>
+  <title>Blog - Walla Walla Acupuncture</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
   <meta http-equiv="Content-Language" content="en" />
-    <meta name="author" content="Walla Walla Acupuncture: Inviting you to gain a deeper understanding of your potential for wellness." />
+    <meta name="description" content="Learn more about Elena's oberservations and insight on integrative health and wellness." />
     <meta name="keywords" content="acupuncture walla advance clinic eastern medicine integrative health wellness guasha cupping herbal therapy nutrition" />
-    <meta name="description" content="Walla Walla Acupuncture" />
+    <meta name="author" content="Walla Walla Acupuncture" />
     <link href='img/favicon.gif' rel='shortcut icon' type='image/gif'>
     <link href='img/favicon.ico' rel='shortcut icon' type='image/ico'>
 <script>
